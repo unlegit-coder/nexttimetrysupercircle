@@ -1,3 +1,1 @@
--- Super Ring Parts v4 Roblox script
 
--- Your script content goes here...
